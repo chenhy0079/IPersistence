@@ -19,6 +19,6 @@ package com.lagou.utils;
  * @author Clinton Begin
  */
 public interface TokenHandler {
-  String handleToken(String content123);
+  String handleToken(String content1234);
 }
 
